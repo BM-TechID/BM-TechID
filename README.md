@@ -4,10 +4,10 @@ IND: Saya sangat suka di bidang IT terutama di bidang aplikasi open source dan h
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge/OS-LinuxOS-blue?&logo=linux" />
-    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/OS-Linux-red?&logo=linux" />
+    <img src="https://img.shields.io/badge/Code-html-red?&logo=html" />
+    <img src="https://img.shields.io/badge/IDE-Xcode-red?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-red?&logo=visual%20studio%20code&logoColor=red" />
     <img src="https://gpvc.arturio.dev/BM-TechID" />
 </p>
 
