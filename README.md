@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Bang Mansur!
-<br> ENG: I really like it in the IT field, especially in the field of open source applications and my hobby is working on hardware and software because of my needs. </br>
-<br> IND: Saya sangat suka di bidang IT terutama di bidang aplikasi open source dan hobi saya mengerjakan hardware dan software karena kebutuhan saya. </br>
+ENG: I really like it in the IT field, especially in the field of open source applications and my hobby is working on hardware and software because of my needs. </br>
+IND: Saya sangat suka di bidang IT terutama di bidang aplikasi open source dan hobi saya mengerjakan hardware dan software karena kebutuhan saya. </br>
 
 ### Tools:
 <p>
@@ -15,11 +15,11 @@
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on ... </br>
-    - 🌱 I’m currently learning SwiftUI and UIKit </br>
+    - 🌱 I’m currently learning HTML code. </br>
     - 👯 I’m looking to collaborate on ... </br>
     - 🤔 I’m looking for help with ... </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="bm@mails.my.id">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
