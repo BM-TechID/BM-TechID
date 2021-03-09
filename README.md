@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Bang Mansur!
-ING: I really like it in the IT field, especially in the field of open source applications and my hobby is working on hardware and software because of my needs.
-IND: Saya sangat suka di bidang IT terutama di bidang aplikasi open source dan hobi saya mengerjakan hardware dan software karena kebutuhan saya.
+<br> ENG: I really like it in the IT field, especially in the field of open source applications and my hobby is working on hardware and software because of my needs. </br>
+<br> IND: Saya sangat suka di bidang IT terutama di bidang aplikasi open source dan hobi saya mengerjakan hardware dan software karena kebutuhan saya. </br>
 
 ### Tools:
 <p>
