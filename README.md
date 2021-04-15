@@ -3,27 +3,15 @@ ENG: I really like it in the IT field, especially in the field of open source ap
 IND: Saya sangat suka di bidang IT terutama di bidang aplikasi open source dan hobi saya mengerjakan hardware dan software karena kebutuhan saya. <br><br>
 
 # Hi there, I'm BM (bang mansur)!
-<p align="center"><a href="https://github.com/BM-TechID"><img src="https://x.nasihosting.com/images/bm.jpg" height='195' alt="BM-TechID profile">
+<p align="center"><a href="https://github.com/BM-TechID"><img src="https://raw.githubusercontent.com/BM-TechID/bm-techid.github.io/master/images/logobm-compress.jpg" height='195' alt="BM-TechID profile">
 <a href="https://github.com/BM-TechIDo"><img title="BM-TechID" src="https://github-readme-stats.vercel.app/api?username=BM-TechID&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200"></a>
 <a href="https://github.com/BM-TechID"><img title="BM-TechID" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BM-TechID&layout=compact&theme=nightowl"></a><br>
 <a href="https://github.com/BM-TechID"><img title="BM-TechID" src="https://komarev.com/ghpvc/?username=BM-TechID&label=Views&color=blue&style=plastic"></a>
 <a href="https://github.com/hekelpro"><img title="BM-TechID" src="https://img.shields.io/github/followers/BM-TechID?label=follow&style=social"></a>
 </p><br>
     
-### Tools:    
-<p>
-    <img src="https://img.shields.io/badge/OS-Linux-red?&logo=linux" />
-    <img src="https://img.shields.io/badge/Code-html-red?&logo=html" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-red?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-red?&logo=visual%20studio%20code&logoColor=red" />
-    <img src="https://gpvc.arturio.dev/BM-TechID" />
-</p>
 
 ### Stats:
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BM-TechID&layout=compact" height=180 />
-</p>
-
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on ... </br>
@@ -34,6 +22,16 @@ IND: Saya sangat suka di bidang IT terutama di bidang aplikasi open source dan h
     - 📫 How to reach me: <a href="bm@mails.my.id">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
+</details>
+<details>
+ <summary><strong>Tools that I use frequently</strong></summary>  
+    <p>
+        <img src="https://img.shields.io/badge/OS-Linux-red?&logo=linux" />
+        <img src="https://img.shields.io/badge/Code-html-red?&logo=html" />
+        <img src="https://img.shields.io/badge/IDE-Xcode-red?&logo=xcode" />
+        <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-red?&logo=visual%20studio%20code&logoColor=red" />
+        <img src="https://gpvc.arturio.dev/BM-TechID" />
+    </p>
 </details>
 
 
