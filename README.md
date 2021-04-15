@@ -38,6 +38,6 @@ IND: Saya sangat menyukai Teknologi Informasi (IT) terutama di bidang pengembang
 ### Let's connect!
 <p>
     <a href="https://bmtechid.github.io" target="blank"><img src="https://img.shields.io/badge/Website-https://bmtechid.github.io-green?" /></a>
-    <a href="https://instagram.com/b4n6_mansur" target="blank"><img src="https://img.shields.io/badge/b4n6_mansur-30302f?style=flat&logo=medium" /></a>
+    <a href="https://instagram.com/b4n6_mansur" target="blank"><img src="https://img.shields.io/badge/b4n6_mansur-30302f?style=flat&logo=instagram" /></a>
     <a href="https://twitter.com/b4n6mansur" target="blank"><img src="https://img.shields.io/badge/@b4n6mansur-30302f?style=flat&logo=twitter" /></a>
 </p>
