@@ -1,7 +1,14 @@
-# Hi there 👋 , I'm Bang Mansur!
-ENG: I really like it in the IT field, especially in the field of open source applications and my hobby is working on hardware and software because of my needs. </br>
-IND: Saya sangat suka di bidang IT terutama di bidang aplikasi open source dan hobi saya mengerjakan hardware dan software karena kebutuhan saya. </br>
+# Welcome To My Github <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+ENG: I really like it in the IT field, especially in the field of open source applications and my hobby is working on hardware and software because of my needs. <br><br>
+IND: Saya sangat suka di bidang IT terutama di bidang aplikasi open source dan hobi saya mengerjakan hardware dan software karena kebutuhan saya. <br><br>
 
+# Hi there, I'm BM (bang mansur)!
+<p align="center"><a href="https://github.com/hekelpro"><img src="https://i.ibb.co/tb5qqfF/FB-IMG-16131284832799765.jpg" height='195' alt="hekelpro profile">
+<a href="https://github.com/hekelpro"><img title="hekelpro" src="https://github-readme-stats.vercel.app/api?username=hekelpro&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200"></a>
+<a href="https://github.com/hekelpro"><img title="hekelpro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekelpro&layout=compact&theme=nightowl"></a><br>
+<a href="https://github.com/hekelpro"><img title="hekelpro" src="https://komarev.com/ghpvc/?username=hekelpro&label=Views&color=blue&style=plastic"></a>
+<a href="https://github.com/hekelpro"><img title="hekelpro" src="https://img.shields.io/github/followers/hekelpro?label=follow&style=social"></a>
+    
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-Linux-red?&logo=linux" />
