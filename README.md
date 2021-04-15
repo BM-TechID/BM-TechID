@@ -30,7 +30,6 @@ IND: Saya sangat menyukai Teknologi Informasi (IT) terutama di bidang pengembang
         <img src="https://img.shields.io/badge/Code-html-red?&logo=html" />
         <img src="https://img.shields.io/badge/IDE-Xcode-red?&logo=xcode" />
         <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-red?&logo=visual%20studio%20code&logoColor=red" />
-        <img src="https://gpvc.arturio.dev/BM-TechID" />
     </p>
 </details>
 
@@ -41,4 +40,5 @@ IND: Saya sangat menyukai Teknologi Informasi (IT) terutama di bidang pengembang
     <a href="https://github.com/BM-TechID" target="blank"><img src="https://img.shields.io/badge/BM-TechID-30302f?style=flat&logo=github" /></a>
     <a href="https://instagram.com/b4n6_mansur" target="blank"><img src="https://img.shields.io/badge/b4n6_mansur-30302f?style=flat&logo=instagram" /></a>
     <a href="https://twitter.com/b4n6mansur" target="blank"><img src="https://img.shields.io/badge/@b4n6mansur-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://t.me/B4N6_MANSUR" target="blank"><img src="https://img.shields.io/badge/B4N6_MANSUR-30302f?style=flat&logo=telegram" /></a>
 </p>
