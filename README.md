@@ -49,8 +49,8 @@ IND: Saya sangat menyukai Teknologi Informasi (IT) terutama di bidang pengembang
      <summary><strong>Various wallet addresses that are owned.</strong></summary>
         <p>
             <a href="https://paypal.me/mansur.julianto" target="blank"><img src="https://img.shields.io/badge/-30302f?style=flat&logo=paypal" /></a>
-            <a href="3Bp7eiMrqDHCfmsSgVSrAs9rEBZWN5gUDj" target="blank"><img src="https://img.shields.io/badge/-30302f?style=flat&logo=bitcoin" /></a>
-            <a href="0x6403d89b923139795b4e70494453c0e12e153979" target="blank"><img src="https://img.shields.io/badge/-30302f?style=flat&logo=ethereum" /></a>
-            <a href="A7MhHpDUSKeuzxRFnv7CTiJTsVDUoCSH5r" target="blank"><img src="https://img.shields.io/badge/-30302f?style=flat&logo=dogecoin" /></a>
+            <a href="https://bm-techid.github.io/wallet-donate/bitcoin.html" target="blank"><img src="https://img.shields.io/badge/-30302f?style=flat&logo=bitcoin" /></a>
+            <a href="https://bm-techid.github.io/wallet-donate/ethereum.html" target="blank"><img src="https://img.shields.io/badge/-30302f?style=flat&logo=ethereum" /></a>
+            <a href="https://bm-techid.github.io/wallet-donate/dogecoin.html" target="blank"><img src="https://img.shields.io/badge/-30302f?style=flat&logo=dogecoin" /></a>
        </p>
 </details>
