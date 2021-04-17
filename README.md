@@ -37,7 +37,7 @@ IND: Saya sangat menyukai Teknologi Informasi (IT) terutama di bidang pengembang
 ### Let's connect!
 <p>
     <a href="https://bm-techid.github.io" target="blank"><img src="https://img.shields.io/badge/Website-BM--TechID-red?" /></a>
-    <a href="https://github.com/BM-TechID" target="blank"><img src="https://img.shields.io/badge/BM-TechID-30302f?style=flat&logo=github" /></a>
+    <a href="https://github.com/BM-TechID" target="blank"><img src="https://img.shields.io/badge/-BM-TechID-30302f?style=flat&logo=github" /></a>
     <a href="https://instagram.com/b4n6_mansur" target="blank"><img src="https://img.shields.io/badge/b4n6_mansur-30302f?style=flat&logo=instagram" /></a>
     <a href="https://twitter.com/b4n6mansur" target="blank"><img src="https://img.shields.io/badge/@b4n6mansur-30302f?style=flat&logo=twitter" /></a>
     <a href="https://t.me/B4N6_MANSUR" target="blank"><img src="https://img.shields.io/badge/B4N6_MANSUR-30302f?style=flat&logo=telegram" /></a>
@@ -48,6 +48,9 @@ IND: Saya sangat menyukai Teknologi Informasi (IT) terutama di bidang pengembang
 <details>
      <summary><strong>Various wallet addresses that are owned.</strong></summary>
         <p>
-            <a href="https://github.com/BM-TechID" target="blank"><img src="https://img.shields.io/badge/BM-TechID-30302f?style=flat&logo=paypal" /></a>
+            <a href="https://paypal.me/mansur.julianto" target="blank"><img src="https://img.shields.io/badge/-30302f?style=flat&logo=paypal" /></a>
+            <a href="3Bp7eiMrqDHCfmsSgVSrAs9rEBZWN5gUDj" target="blank"><img src="https://img.shields.io/badge/-30302f?style=flat&logo=bitcoin" /></a>
+            <a href="0x6403d89b923139795b4e70494453c0e12e153979" target="blank"><img src="https://img.shields.io/badge/-30302f?style=flat&logo=ethereum" /></a>
+            <a href="A7MhHpDUSKeuzxRFnv7CTiJTsVDUoCSH5r" target="blank"><img src="https://img.shields.io/badge/-30302f?style=flat&logo=dogecoin" /></a>
        </p>
 </details>
