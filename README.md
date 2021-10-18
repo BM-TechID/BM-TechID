@@ -3,7 +3,7 @@ ENG: I really like Information Technology (IT) especially in the field of open s
 IND: Saya sangat menyukai Teknologi Informasi (IT) terutama di bidang pengembangan aplikasi sumber terbuka dan juga sangat suka merakit hardware komputer, terus mengerjakan software karena memenuhi kebutuhan pekerjaan saya. <br><br>
 
 # Hi there, I'm BM (bang mansur)!
-<p align="center"><a href="https://github.com/BM-TechID"><img src="https://i.ibb.co/Hp4YD6V/emblem-bm.png" height='195' alt="BM-TechID profile">
+<p align="center"><a href="https://github.com/BM-TechID"><img src="https://i.ibb.co/VmMRNWN/20210616-204505.jpg"" height='195' alt="BM-TechID profile">
 <a href="https://github.com/BM-TechID"><img title="BM-TechID" src="https://github-readme-stats.vercel.app/api?username=BM-TechID&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200"></a>
 <a href="https://github.com/BM-TechID"><img title="BM-TechID" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BM-TechID&layout=compact&theme=nightowl"></a><br>
 <a href="https://github.com/BM-TechID"><img title="BM-TechID" src="https://komarev.com/ghpvc/?username=BM-TechID&label=Views&color=blue&style=plastic"></a>
