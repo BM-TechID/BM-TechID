@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome friend to my github !!!
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome all to my github !!!
 EN: I really like Information Technology (IT) especially in the field of open source application development and also really like assembling computer hardware, continuing to work on software because it meets my job needs.. <br><br>
 
 IN: Saya sangat menyukai Teknologi Informasi (IT) terutama di bidang pengembangan aplikasi sumber terbuka dan juga sangat suka merakit hardware komputer, terus mengerjakan software karena memenuhi kebutuhan pekerjaan saya. <br><br>
