@@ -1,6 +1,8 @@
 # Welcome To My Github <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-ENG: I really like Information Technology (IT) especially in the field of open source application development and also really like assembling computer hardware, continuing to work on software because it meets my job needs.. <br><br>
-IND: Saya sangat menyukai Teknologi Informasi (IT) terutama di bidang pengembangan aplikasi sumber terbuka dan juga sangat suka merakit hardware komputer, terus mengerjakan software karena memenuhi kebutuhan pekerjaan saya. <br><br>
+=================================================================================================================================================================================
+EN: I really like Information Technology (IT) especially in the field of open source application development and also really like assembling computer hardware, continuing to work on software because it meets my job needs.. <br><br>
+IN: Saya sangat menyukai Teknologi Informasi (IT) terutama di bidang pengembangan aplikasi sumber terbuka dan juga sangat suka merakit hardware komputer, terus mengerjakan software karena memenuhi kebutuhan pekerjaan saya. <br><br>
+=================================================================================================================================================================================
 
 # Hi there, I'm BM (bang mansur)!
 <p align="center"><a href="https://github.com/BM-TechID"><img src="https://i.ibb.co/VmMRNWN/20210616-204505.jpg"" height='195' alt="BM-TechID profile">
