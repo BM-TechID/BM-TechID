@@ -12,7 +12,7 @@
 
 <p align="center"> <a href="https://github.com/BM-TechID/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=BM-TechID&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="BM-TechID" /></a> </p><br>
 
-<p align="center"><a href="#"><img src="https://sdk.bitmoji.com/render/panel/7ff431c5-0042-4ded-81e5-a5514a9e677a-73722fee-603d-4ad6-a574-ee66da7461b3-v1.png?transparent=1&palette=1" alt="Hello" width="170" height="170"/></a></p><br>
+<p align="center"><a href="#"><img src="https://github.com/BM-TechID/BM-TechID/blob/main/bm.jpg" alt="Hello" width="170" height="170"/></a></p><br>
 
 
 
