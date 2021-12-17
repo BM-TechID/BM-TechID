@@ -10,7 +10,7 @@
 <h4 align="center">Free Open Source Developement <br> I Like to work privately</h4>
 
 
-<p align="center"> <a href="https://github.com/BM-TechID/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=BM-TechID&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="BM-TechID" /></a> </p><br>
+<p align="center"> <a href="https://github.com/BM-TechID/"><img width="170px" height="24" src="https://tinyurl.com/yc8d66uu" alt="BM-TechID" /></a> </p><br>
 
 <p align="center"><a href="#"><img src="https://github.com/BM-TechID/BM-TechID/blob/main/bm.jpg" alt="Hello" width="170" height="170"/></a></p><br>
 
