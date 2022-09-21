@@ -1,4 +1,4 @@
-<h1 align="center">Hi  &nbsp;<a href="#"><img src="https://raw.githubusercontent.com/BM-TechID/BM-TechID/master/Hi.gif" width="48px"></a>, I'm BM 😎</h1>
+<h1 align="center">Hi  &nbsp;<a href="#"><img src="https://raw.githubusercontent.com/BM-TechID/BM-TechID/master/Hi.gif" width="48px"></a>, I'm <a href="https://www.instagram.com/bg_msr/"> Bang Mansur</a>😎 - "Always behind the scenes, the world in hand. Silence is scary, Moving deadly"</h1>
 
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="BM-TechID" height="30" width="40" /></a>
@@ -12,7 +12,7 @@
 
 <p align="center"> <a href="https://github.com/BM-TechID/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=BM-TechID&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="BM-TechID" /></a> </p><br>
 
-<p align="center"><a href="#"><img src="https://github.com/BM-TechID/BM-TechID/blob/main/bm.jpg" alt="BM-TechID" width="170" height="170"/></a></p><br>
+<p align="center"><a href="#"><img src="https://github.com/BM-TechID/BM-TechID/blob/main/logo/croping-bm.png" alt="BM-TechID" width="170" height="170"/></a></p><br>
 
 
 
