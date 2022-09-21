@@ -1,4 +1,5 @@
-<h1 align="center">Hi  &nbsp;<a href="#"><img src="https://raw.githubusercontent.com/BM-TechID/BM-TechID/master/Hi.gif" width="48px"></a>, I'm <a href="https://www.instagram.com/bg_msr/"> Bang Mansur</a>😎 - "Always behind the scenes, the world in hand. Silence is scary, Moving deadly"</h1>
+<h2 align="center">Hi  &nbsp;<a href="#"><img src="https://raw.githubusercontent.com/BM-TechID/BM-TechID/master/Hi.gif" width="48px"></a>, I'm <a href="https://www.instagram.com/bg_msr/"> Bang Mansur</a>😎</h2> 
+<h1 align="center"> "Always behind the scenes, the world in hand. Silence is scary, Moving deadly"</h1>
 
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="BM-TechID" height="30" width="40" /></a>
