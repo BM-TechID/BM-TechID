@@ -42,20 +42,6 @@
     <a href="https://t.me/B4N6_MANSUR" target="blank"><img src="https://img.shields.io/badge/B4N6_MANSUR-30302f?style=flat&logo=telegram" /></a>
 </p>
 
-- 🔭 I’m currently working not working I am offline
-
-- 🌱 I’m currently learning **New Things**
-
-- 👯 My Fun Fact is **Coffee & Friends**
-
-- 🤝 I’m looking for help with **Profession Developers**
-
-- 💬 Ask me about **all things**
-
-- 📫 How to reach me **bm@mails.my.id**
-
-<br><br>
-
 ```py
 About Me = [
     "I'm student with noob dev labels",
