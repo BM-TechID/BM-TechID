@@ -48,18 +48,19 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-555?style=flat&logo=adobe-illustrator)&nbsp;
 
 
+
 ## 📈 GitHub Activity Graph:
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/BM-TechID#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=BM-TechID&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/BM-TechID#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=BM-TechID&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/BM-TechID#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BM-TechID&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/BM-TechID#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BM-TechID&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=tokyonight"/></a></td>
+        <td align="center"><a href="https://github.com/BM-TechID#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BM-TechID&theme=default"/></a><a href="https://github.com/BM-TechID#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BM-TechID&theme=tokyonight"/></a></td>
     </tr>
     <tr>
-        <td colspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td colspan="2" align="center"><a href="https://github.com/BM-TechID#gh-light-mode-only"><img src="https://raw.githubusercontent.com/BM-TechID/BM-TechID/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/BM-TechID#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/BM-TechID/BM-TechID/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
 </table>
 
