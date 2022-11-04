@@ -62,6 +62,11 @@
     <tr>
         <td colspan="2" align="center"><a href="https://github.com/BM-TechID#gh-light-mode-only"><img src="https://raw.githubusercontent.com/BM-TechID/BM-TechID/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/BM-TechID#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/BM-TechID/BM-TechID/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
+    <tr>
+        <center>
+            ![snake gif](https://github.com/BM-TechID/BM-TechID/blob/output/github-contribution-grid-snake.gif)
+        </center>
+    </tr>
 </table>
 
 ### Let's connect!
