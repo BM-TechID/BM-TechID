@@ -86,11 +86,11 @@ About Me = [
 
 ###
 <h4 align="center">Donate to support!</h4>
-<a align="center" href="https://github.com/BM-TechID/BM-TechID/blob/main/logo/qr-bgmsr.png"><img src="https://github.com/BM-TechID/BM-TechID/blob/main/logo/qr-bgmsr.png" width="170" height="170"/></a>
+<p align="center"><a href="https://github.com/BM-TechID/BM-TechID/blob/main/logo/qr-bgmsr.png"><img src="https://github.com/BM-TechID/BM-TechID/blob/main/logo/qr-bgmsr.png" width="170" height="170"/></p></a>
 
 ###
 <p align="center">Github Page Visitor</p>
-<img align="center" src="https://profile-counter.glitch.me/BM-TechID/count.svg" alt="hit counter"> 
+<p align="center"><img src="https://profile-counter.glitch.me/BM-TechID/count.svg" alt="hit counter"></p>
 
 
 ###
