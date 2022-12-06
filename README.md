@@ -31,30 +31,6 @@
     <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a></code>&nbsp;</p>
 
-
-## 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-555?style=flat&logo=flask)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
-![Airflow](https://img.shields.io/badge/-Apache_Airflow-555?style=flat&logo=Apache-Airflow)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-555?style=flat&logo=angular)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
-![Jekyll](https://img.shields.io/badge/-Jekyll-555?style=flat&logo=jekyll)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-555?style=flat&logo=gitlab)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-555?style=flat&logo=jupyter)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-555?style=flat&logo=adobe-illustrator)&nbsp;
-
-
-
 ## 📈 GitHub Activity Graph:
 
 <table align="center">
@@ -84,6 +60,15 @@ About Me = [
 ```
 
 ###
+<h4 align="center">Donate to support!</h4>
+<p align="center"><a href="https://github.com/BM-TechID/BM-TechID/blob/main/logo/qr-bgmsr.png"><img src="https://github.com/BM-TechID/BM-TechID/blob/main/logo/qr-bgmsr.png" width="170" height="170"/></p></a>
+
+###
+<p align="center">Github Page Visitor</p>
+<p align="center"><img src="https://profile-counter.glitch.me/BM-TechID/count.svg" alt="hit counter"></p>
+<br>
+
+###
 <h4 align="center">Let's connect!</h4>
 <p align="center">
     <a href="https://bm-techid.github.io" target="blank"><img src="https://img.shields.io/badge/Website-BM--TechID-red?" /></a>
@@ -93,15 +78,26 @@ About Me = [
     <a href="https://t.me/B4N6_MANSUR" target="blank"><img src="https://img.shields.io/badge/B4N6_MANSUR-30302f?style=flat&logo=telegram" /></a>
 </p>
 
-
-###
-<h4 align="center">Donate to support!</h4>
-<p align="center"><a href="https://github.com/BM-TechID/BM-TechID/blob/main/logo/qr-bgmsr.png"><img src="https://github.com/BM-TechID/BM-TechID/blob/main/logo/qr-bgmsr.png" width="170" height="170"/></p></a>
-
-###
-<p align="center">Github Page Visitor</p>
-<p align="center"><img src="https://profile-counter.glitch.me/BM-TechID/count.svg" alt="hit counter"></p>
-
+## 🛠️ Tech Stack:
+![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-555?style=flat&logo=flask)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
+![Airflow](https://img.shields.io/badge/-Apache_Airflow-555?style=flat&logo=Apache-Airflow)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-555?style=flat&logo=angular)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
+![Jekyll](https://img.shields.io/badge/-Jekyll-555?style=flat&logo=jekyll)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-555?style=flat&logo=gitlab)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-555?style=flat&logo=jupyter)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-555?style=flat&logo=adobe-illustrator)&nbsp;
 
 ###
 <details>
