@@ -60,7 +60,7 @@ About Me = [
 ```
 
 ###
-<h4 align="center">Donate to support!</h4>
+<h1 align="center">Donate to support!</h1>
 <p align="center"><a href="https://github.com/BM-TechID/BM-TechID/blob/main/logo/qr-bgmsr.png"><img src="https://github.com/BM-TechID/BM-TechID/blob/main/logo/qr-bgmsr.png" width="170" height="170"/></p></a>
 
 ###
@@ -69,7 +69,7 @@ About Me = [
 <br>
 
 ###
-<h4 align="center">Let's connect!</h4>
+<h2 align="center">Let's connect!</h2>
 <p align="center">
     <a href="https://bm-techid.github.io" target="blank"><img src="https://img.shields.io/badge/Website-BM--TechID-red?" /></a>
     <a href="https://github.com/BM-TechID" target="blank"><img src="https://img.shields.io/badge/BM--TechID-30302f?style=flat&logo=github" /></a>
