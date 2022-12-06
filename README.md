@@ -1,6 +1,6 @@
 <p align="center"><a href="#"><img src="https://github.com/BM-TechID/BM-TechID/blob/main/logo/bgmsr.png" alt="BM-TechID" width="170" height="170"/></a></p>
 
-<h2 align="center">Hi  &nbsp;<a href="#"><img src="https://raw.githubusercontent.com/BM-TechID/BM-TechID/master/Hi.gif" width="48px"></a>, I'm <a href="https://www.instagram.com/bg_msr/"> B4N6 MANSUR></a><img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/</h2> 
+<h2 align="center">Hi  &nbsp;<a href="#"><img src="https://raw.githubusercontent.com/BM-TechID/BM-TechID/master/Hi.gif" width="48px"></a>, I'm <a href="https://www.instagram.com/bg_msr/"> B4N6 MANSUR </a><img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/></h2> 
 
 [![](./header.png)](#)
 
