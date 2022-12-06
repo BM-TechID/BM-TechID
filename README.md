@@ -100,6 +100,14 @@ About Me = [
 ![Illustrator](https://img.shields.io/badge/-Illustrator-555?style=flat&logo=adobe-illustrator)&nbsp;
 
 ###
+![](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![](https://img.icons8.com/color/30/windows-10.png)
+![](https://img.icons8.com/color/30/ubuntu--v1.png)
+![](https://img.icons8.com/color/30/linux.png)
+![](https://img.icons8.com/color/30/kali-linux.png)
+![](https://img.icons8.com/color/30/console.png)
+
+###
 <details>
      <summary><strong>Various wallet addresses that are owned.</strong></summary>
         <p>
