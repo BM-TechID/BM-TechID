@@ -8,15 +8,14 @@
 
 <h4 align="center">Free Open Source Developement <br> I Like to work privately</h4>
 
-###
-<p align="center">
+
 <a img src="https://img.icons8.com/color/30/visual-studio-code-2019.png"></a>
 <a img src="https://img.icons8.com/color/30/windows-10.png"></a>
 <a img src="https://img.icons8.com/color/30/ubuntu--v1.png"></a>
 <a img src="https://img.icons8.com/color/30/linux.png"></a>
 <a img src="https://img.icons8.com/color/30/kali-linux.png"></a>
 <a img src="https://img.icons8.com/color/30/console.png"></a>
-</p>
+
 
 <p align="center">
     <a href="https://github.com/BM-TechID/BM-TechID"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
