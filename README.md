@@ -68,9 +68,8 @@ About Me = [
 <p align="center"><img src="https://profile-counter.glitch.me/BM-TechID/count.svg" alt="hit counter"></p>
 <br>
 
-###
-<h2 align="center">Let's connect!</h2>
-<p align="center">
+## 🌐 Let's connect!
+<p>
     <a href="https://bm-techid.github.io" target="blank"><img src="https://img.shields.io/badge/Website-BM--TechID-red?" /></a>
     <a href="https://github.com/BM-TechID" target="blank"><img src="https://img.shields.io/badge/BM--TechID-30302f?style=flat&logo=github" /></a>
     <a href="https://instagram.com/b4n6_mansur" target="blank"><img src="https://img.shields.io/badge/b4n6_mansur-30302f?style=flat&logo=instagram" /></a>
