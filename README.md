@@ -61,8 +61,8 @@ About Me = [
 
 ###
 <br><br>
-<h1 align="center">Donate to support!</h1>
-<p align="center"><a href="https://github.com/BM-TechID/BM-TechID/blob/main/logo/qr-bgmsr.png"><img src="https://github.com/BM-TechID/BM-TechID/blob/main/logo/qr-bgmsr.png" width="170" height="170"/></p></a>
+<h1 align="center">Scan Here !!!</h1>
+<p align="center"><a href="https://sociabuzz.com/bgmsr/donate"><img src="https://github.com/BM-TechID/BM-TechID/blob/main/logo/qr-bgmsr.png" width="170" height="170"/></p>https://sociabuzz.com/bgmsr/donate</a>
 
 ###
 <p align="center">Github Page Visitor</p>
