@@ -10,12 +10,12 @@
 
 ###
 <div align="center">
-    ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
-    ![Windows](https://img.icons8.com/color/30/windows-10.png)
-    ![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
-    ![Linux](https://img.icons8.com/color/30/linux.png)
-    ![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)
-    ![Console](https://img.icons8.com/color/30/console.png)
+<a img src="https://img.icons8.com/color/30/visual-studio-code-2019.png"></a>
+<a img src="https://img.icons8.com/color/30/windows-10.png"></a>
+<a img src="https://img.icons8.com/color/30/ubuntu--v1.png"></a>
+<a img src="https://img.icons8.com/color/30/linux.png"></a>
+<a img src="https://img.icons8.com/color/30/kali-linux.png"></a>
+<a img src="https://img.icons8.com/color/30/console.png"></a>
 </div>
 
 <p align="center">
