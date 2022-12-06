@@ -68,16 +68,7 @@ About Me = [
 <p align="center"><img src="https://profile-counter.glitch.me/BM-TechID/count.svg" alt="hit counter"></p>
 <br>
 
-## 🌐 Let's connect!
-<p>
-    <a href="https://bm-techid.github.io" target="blank"><img src="https://img.shields.io/badge/Website-BM--TechID-red?" /></a>
-    <a href="https://github.com/BM-TechID" target="blank"><img src="https://img.shields.io/badge/BM--TechID-30302f?style=flat&logo=github" /></a>
-    <a href="https://instagram.com/b4n6_mansur" target="blank"><img src="https://img.shields.io/badge/b4n6_mansur-30302f?style=flat&logo=instagram" /></a>
-    <a href="https://twitter.com/b4n6mansur" target="blank"><img src="https://img.shields.io/badge/@b4n6mansur-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://t.me/B4N6_MANSUR" target="blank"><img src="https://img.shields.io/badge/B4N6_MANSUR-30302f?style=flat&logo=telegram" /></a>
-</p>
-
-## 🛠️ Tech Stack:
+### 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -98,13 +89,22 @@ About Me = [
 ![Jupyter](https://img.shields.io/badge/-Jupyter-555?style=flat&logo=jupyter)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-555?style=flat&logo=adobe-illustrator)&nbsp;
 
-###
+### 🖥️ Tools of war:
 ![](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 ![](https://img.icons8.com/color/30/windows-10.png)
 ![](https://img.icons8.com/color/30/ubuntu--v1.png)
 ![](https://img.icons8.com/color/30/linux.png)
 ![](https://img.icons8.com/color/30/kali-linux.png)
 ![](https://img.icons8.com/color/30/console.png)
+
+### 🌐 Let's connect!
+<p>
+    <a href="https://bm-techid.github.io" target="blank"><img src="https://img.shields.io/badge/Website-BM--TechID-red?" /></a>
+    <a href="https://github.com/BM-TechID" target="blank"><img src="https://img.shields.io/badge/BM--TechID-30302f?style=flat&logo=github" /></a>
+    <a href="https://instagram.com/b4n6_mansur" target="blank"><img src="https://img.shields.io/badge/b4n6_mansur-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://twitter.com/b4n6mansur" target="blank"><img src="https://img.shields.io/badge/@b4n6mansur-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://t.me/B4N6_MANSUR" target="blank"><img src="https://img.shields.io/badge/B4N6_MANSUR-30302f?style=flat&logo=telegram" /></a>
+</p>
 
 ###
 <details>
