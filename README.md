@@ -57,7 +57,7 @@
 
 ## 📈 GitHub Activity Graph:
 
-<table>
+<table align="center">
     <tr>
         <td align="center"><a href="https://github.com/BM-TechID#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=BM-TechID&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/BM-TechID#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=BM-TechID&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
         <td rowspan="2" align="center"><a href="https://github.com/BM-TechID#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BM-TechID&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/BM-TechID#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BM-TechID&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
@@ -84,16 +84,15 @@ About Me = [
 ```
 
 ###
-<center>
-    <h4>Let's connect!</h4>
-    <p>
-        <a href="https://bm-techid.github.io" target="blank"><img src="https://img.shields.io/badge/Website-BM--TechID-red?" /></a>
-        <a href="https://github.com/BM-TechID" target="blank"><img src="https://img.shields.io/badge/BM--TechID-30302f?style=flat&logo=github" /></a>
-        <a href="https://instagram.com/b4n6_mansur" target="blank"><img src="https://img.shields.io/badge/b4n6_mansur-30302f?style=flat&logo=instagram" /></a>
-        <a href="https://twitter.com/b4n6mansur" target="blank"><img src="https://img.shields.io/badge/@b4n6mansur-30302f?style=flat&logo=twitter" /></a>
-        <a href="https://t.me/B4N6_MANSUR" target="blank"><img src="https://img.shields.io/badge/B4N6_MANSUR-30302f?style=flat&logo=telegram" /></a>
-    </p>
-</center>
+<h4 align="center">Let's connect!</h4>
+<p align="center">
+    <a href="https://bm-techid.github.io" target="blank"><img src="https://img.shields.io/badge/Website-BM--TechID-red?" /></a>
+    <a href="https://github.com/BM-TechID" target="blank"><img src="https://img.shields.io/badge/BM--TechID-30302f?style=flat&logo=github" /></a>
+    <a href="https://instagram.com/b4n6_mansur" target="blank"><img src="https://img.shields.io/badge/b4n6_mansur-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://twitter.com/b4n6mansur" target="blank"><img src="https://img.shields.io/badge/@b4n6mansur-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://t.me/B4N6_MANSUR" target="blank"><img src="https://img.shields.io/badge/B4N6_MANSUR-30302f?style=flat&logo=telegram" /></a>
+</p>
+
 
 ###
 <h4 align="center">Donate to support!</h4>
