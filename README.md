@@ -84,9 +84,15 @@ About Me = [
 ]
 ```
 
+<br>
+<h4 align="center">Donate to support!</h4>
+<p><a href="https://github.com/BM-TechID/BM-TechID/blob/main/logo/qr-bgmsr.png"><img src="https://github.com/BM-TechID/BM-TechID/blob/main/logo/qr-bgmsr.png" width="170" height="170"/></a></p>
 
-### Donate to support!
-<p><a href="#"><img src="https://github.com/BM-TechID/BM-TechID/blob/main/logo/qr-bgmsr.png" width="170" height="170"/></a></p>
+<br>
+<p align="center">Github Page Visitor</p>
+<img src="https://profile-counter.glitch.me/BM-TechID/count.svg" alt="hit counter" align="center">
+
+<br>
 <details>
      <summary><strong>Various wallet addresses that are owned.</strong></summary>
         <p>
@@ -98,14 +104,7 @@ About Me = [
 </details>
 
 
-<br>
-**Github Page Visitor**
 
-<div align="center">
-<p></p>
-
-<img src="https://profile-counter.glitch.me/BM-TechID/count.svg" alt="hit counter" align="center">
-</div>
 
 
 
