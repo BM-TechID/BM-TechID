@@ -31,7 +31,7 @@
     <code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a></code>&nbsp;</p>
 
-## 📈 GitHub Activity Graph:
+### 📈 GitHub Activity Graph:
 
 <table align="center">
     <tr>
