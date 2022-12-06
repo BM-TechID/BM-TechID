@@ -6,18 +6,19 @@
 
 <h1 align="center"> "Always behind the scenes, the world in hand. Silence is scary, Moving deadly"</h1>
 
-
-
-
 <h4 align="center">Free Open Source Developement <br> I Like to work privately</h4>
 
-<p align="center">
+###
+<center>
     ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
     ![Windows](https://img.icons8.com/color/30/windows-10.png)
     ![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
     ![Linux](https://img.icons8.com/color/30/linux.png)
     ![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)
     ![Console](https://img.icons8.com/color/30/console.png)
+</center>
+
+<p align="center">
     <a href="https://github.com/BM-TechID/BM-TechID"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/BM-TechID/BM-TechID/graphs/contributors"><img src="https://img.shields.io/github/contributors/BM-TechID/BM-TechID?color=blue"></a>
